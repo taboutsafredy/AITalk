@@ -13,6 +13,7 @@ div.container-contact {
 form {
     width: 50%;
     padding: 10px;
+    font-family: "Inter", sans-serif;
 }
 
 .form-group {
